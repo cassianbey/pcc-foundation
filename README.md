@@ -35,23 +35,23 @@ In short:
 
 ## Foundational papers
 
-### 1. Personal Cognitive Computing
+### 1. Personal Cognitive Computing (PCC)
 
 **The Next Chapter in the History of Computing**
 
-[Read the paper](papers/01-personal-cognitive-computing-v1.0.pdf)
+[Read the paper](https://github.com/cassianbey/pcc-foundation/blob/main/papers/1.%20Personal%20Cognitive%20Computing%20%28PCC%29%20-%20The%20Next%20Chapter%20in%20the%20History%20of%20Computing%20v1.0.pdf)
 
-### 2. Personal Cognitive Engineering
+### 2. Personal Cognitive Engineering (PCE)
 
 **Mission, Engineering Methodology & Reference Architecture**
 
-[Read the paper](papers/02-personal-cognitive-engineering-v1.0.pdf)
+[Read the paper](https://github.com/cassianbey/pcc-foundation/blob/main/papers/2.%20Personal%20Cognitive%20Engineering%20%28PCE%29%20-%20Mission%2C%20Engineering%20Methodology%20%26%20Reference%20Architecture%20v1.0.pdf)
 
-### 3. Personal Cognitive Infrastructure
+### 3. Personal Cognitive Infrastructure (PCI)
 
 **The Engineering Problem and Research Programme of Personal Cognitive Computing**
 
-[Read the paper](papers/03-personal-cognitive-infrastructure-v1.0.pdf)
+[Read the paper](https://github.com/cassianbey/pcc-foundation/blob/main/papers/3.%20Personal%20Cognitive%20Infrastructure%20%28PCI%29%20-%20The%20Engineering%20Problem%20and%20Research%20Programme%20of%20Personal%20Cognitive%20Computing%20v1.0.pdf)
 
 ## Release information
 
