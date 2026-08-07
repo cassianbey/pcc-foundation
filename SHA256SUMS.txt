@@ -1,3 +1,3 @@
-3d958a1fe7d898597b15ebba3e0ff56daeb42e131e4dd90ee4962d618ed29236  papers/1. Personal Cognitive Computing (PCC) - The Next Chapter in the History of Computing v1.0.pdf
+8f75571b140d03713de29c0a540ea82fff307aacf4f76744aa265067c70968a4  papers/1. Personal Cognitive Computing (PCC) - The Next Chapter in the History of Computing v1.0.pdf
 d33d8680cfb12a008b1f7db6d100c4d9613894672a83c53fe1bad5a9e1459264  papers/2. Personal Cognitive Engineering (PCE) - Mission, Engineering Methodology & Reference Architecture v1.0.pdf
 aced7b681963bfa81c4a4d6713fe2a188a43439c5f64a80e24200386d11f9734  papers/3. Personal Cognitive Infrastructure (PCI) - The Engineering Problem and Research Programme of Personal Cognitive Computing v1.0.pdf
