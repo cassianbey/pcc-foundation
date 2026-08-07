@@ -63,9 +63,18 @@ In short:
 
 This repository contains the frozen first public release of the three foundational papers.
 
-## Permanent references
+## ## Permanent references
 
-Individual Zenodo DOI references will be added after archival publication.
+Each foundational paper has its own permanent Zenodo DOI:
+
+1. **Personal Cognitive Computing: The Next Chapter in the History of Computing**
+   https://doi.org/10.5281/zenodo.21844050
+
+2. **Personal Cognitive Engineering: Mission, Engineering Methodology & Reference Architecture**
+   https://doi.org/10.5281/zenodo.21844106
+
+3. **Personal Cognitive Infrastructure: The Engineering Problem and Research Programme of Personal Cognitive Computing**
+   https://doi.org/10.5281/zenodo.21844137
 
 ## Licence
 
